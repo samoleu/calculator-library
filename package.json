@@ -1,6 +1,6 @@
 {
   "name": "@samoleu/calculator-library",
-  "version": "7.0.1",
+  "version": "7.0.2",
   "main": "calculator.js",
   "scripts": {
     "build": "tsc",
