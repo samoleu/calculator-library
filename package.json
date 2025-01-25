@@ -1,5 +1,5 @@
 {
-  "name": "calculator-library",
+  "name": "@samoleu/calculator-library",
   "version": "1.0.0",
   "main": "calculator.js",
   "scripts": {
